@@ -1,0 +1,6 @@
+{
+  "task": "instruction-following",
+  "language": "Swahili",
+  "prompt": "Eleza jinsi ya kupika ugali kwa mtu ambaye hajawahi kufanya hivyo.",
+  "expected_output": "Hatua kwa hatua za kupika ugali, zikielezwa kwa lugha rahisi."
+}

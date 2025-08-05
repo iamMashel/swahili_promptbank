@@ -1,0 +1,6 @@
+{
+  "task": "conversational",
+  "language": "Swahili",
+  "prompt": "Mchuuzi: 'Karibu mama, leo matunda ni bei poa sana!' Mteja: ________",
+  "expected_output": "Mteja: 'Asante! Naomba bei ya machungwa tafadhali.'"
+}

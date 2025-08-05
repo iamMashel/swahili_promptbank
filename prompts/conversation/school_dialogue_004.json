@@ -1,0 +1,6 @@
+{
+  "task": "conversational",
+  "language": "Swahili",
+  "prompt": "Mwalimu: 'Kwa nini hukufanya kazi ya nyumbani?' Mwanafunzi: ________",
+  "expected_output": "Mwanafunzi: 'Samahani mwalimu, nilikuwa mgonjwa na sikuweza kuikamilisha.'"
+}

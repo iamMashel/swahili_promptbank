@@ -1,0 +1,6 @@
+{
+  "task": "conversational",
+  "language": "Swahili",
+  "prompt": "Mhoji: 'Tuambie kuhusu uzoefu wako wa kazi.' Mwombaji: ________",
+  "expected_output": "Mwombaji: 'Nimefanya kazi kama mhasibu kwa miaka mitatu katika kampuni ya kibinafsi.'"
+}

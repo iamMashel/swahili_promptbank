@@ -1,0 +1,6 @@
+{
+  "task": "classification",
+  "language": "Swahili",
+  "prompt": "Je, ujumbe huu ni wa kweli au ni ulaghai? 'Umepata zawadi ya milioni moja! Bonyeza hapa.'",
+  "expected_output": "Ulaghai"
+}

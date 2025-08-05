@@ -1,0 +1,48 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  background: #f9f9f9;
+  color: #222;
+}
+
+header {
+  padding: 2rem;
+  text-align: center;
+  background: #00796b;
+  color: white;
+}
+
+input, select {
+  padding: 0.5rem;
+  margin-top: 1rem;
+  font-size: 1rem;
+  width: 80%;
+  max-width: 400px;
+}
+
+main {
+  padding: 2rem;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+}
+
+.prompt-card {
+  background: white;
+  border: 1px solid #ddd;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.prompt-card h3 {
+  margin-top: 0;
+  font-size: 1rem;
+  color: #00796b;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #eee;
+}

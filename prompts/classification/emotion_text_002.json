@@ -1,0 +1,6 @@
+{
+  "task": "classification",
+  "language": "Swahili",
+  "prompt": "Tambua hisia kuu katika sentensi hii: 'Nimechoka kujaribu kila mara bila mafanikio.'",
+  "expected_output": "Kuvunjika moyo"
+}

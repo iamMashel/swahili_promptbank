@@ -1,0 +1,6 @@
+{
+  "task": "summarization",
+  "language": "Swahili",
+  "prompt": "Toa muhtasari: 'Katika mdahalo wa kisiasa, wagombea walieleza sera zao kuhusu elimu, afya, na miundombinu.'",
+  "expected_output": "Wagombea walijadili elimu, afya, na miundombinu."
+}

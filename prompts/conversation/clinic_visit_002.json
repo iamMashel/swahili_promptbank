@@ -1,0 +1,6 @@
+{
+  "task": "conversational",
+  "language": "Swahili",
+  "prompt": "Daktari: 'Unajisikiaje tangu jana?' Mgonjwa: ________",
+  "expected_output": "Mgonjwa: 'Ninajisikia vizuri kidogo, lakini bado nina homa.'"
+}

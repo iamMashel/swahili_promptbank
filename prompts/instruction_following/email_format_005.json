@@ -1,0 +1,6 @@
+{
+  "task": "instruction-following",
+  "language": "Swahili",
+  "prompt": "Onyesha jinsi ya kuandika barua pepe rasmi kwa mwalimu.",
+  "expected_output": "Mfano wa barua pepe yenye salamu, mwili, na hitimisho rasmi."
+}

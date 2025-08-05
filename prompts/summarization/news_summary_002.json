@@ -1,0 +1,6 @@
+{
+  "task": "summarization",
+  "language": "Swahili",
+  "prompt": "Toa muhtasari wa habari hii: 'Mvua kubwa imenyesha jijini Dar es Salaam, na kusababisha mafuriko katika maeneo kadhaa na kusababisha usumbufu kwa wakazi.'",
+  "expected_output": "Mafuriko yamesababisha usumbufu kutokana na mvua kubwa jijini Dar es Salaam."
+}

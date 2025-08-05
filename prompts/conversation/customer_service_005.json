@@ -1,0 +1,6 @@
+{
+  "task": "conversational",
+  "language": "Swahili",
+  "prompt": "Mwakilishi wa huduma: 'Karibu kwenye huduma kwa wateja, naweza kusaidia vipi leo?' Mteja: ________",
+  "expected_output": "Mteja: 'Ningependa kurudisha bidhaa niliyonunua jana.'"
+}

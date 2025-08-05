@@ -1,0 +1,6 @@
+{
+  "task": "classification",
+  "language": "Swahili",
+  "prompt": "Maoni haya yanaonyesha hisia gani? 'Huduma ilikuwa ya haraka sana na wafanyakazi walikuwa wacheshi.'",
+  "expected_output": "Chanya"
+}

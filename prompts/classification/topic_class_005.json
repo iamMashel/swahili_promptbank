@@ -1,0 +1,6 @@
+{
+  "task": "classification",
+  "language": "Swahili",
+  "prompt": "Ni mada gani inayozungumziwa hapa: 'Bei ya mahindi imepanda kutokana na ukame wa muda mrefu.'",
+  "expected_output": "Kilimo/Bei ya chakula"
+}

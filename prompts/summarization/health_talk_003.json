@@ -1,0 +1,6 @@
+{
+  "task": "summarization",
+  "language": "Swahili",
+  "prompt": "Fupisha: 'Wahudumu wa afya walitoa mafunzo kuhusu chanjo, usafi wa mazingira, na lishe bora kwa akina mama.'",
+  "expected_output": "Mafunzo yalihusu chanjo, usafi, na lishe bora kwa akina mama."
+}

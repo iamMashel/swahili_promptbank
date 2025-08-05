@@ -1,0 +1,6 @@
+{
+  "task": "summarization",
+  "language": "Swahili",
+  "prompt": "Fupisha taarifa hii: 'Wazazi walikutana shuleni kujadili matokeo ya mitihani, nidhamu ya wanafunzi, na mipango ya ziara ya kielimu.'",
+  "expected_output": "Wazazi walijadili matokeo, nidhamu, na ziara ya wanafunzi."
+}

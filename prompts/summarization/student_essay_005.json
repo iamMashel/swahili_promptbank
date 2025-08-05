@@ -1,0 +1,6 @@
+{
+  "task": "summarization",
+  "language": "Swahili",
+  "prompt": "Fupisha insha hii: 'Msitu ni rasilimali muhimu inayotoa hewa safi, mbao, na makazi kwa wanyama. Ni jukumu letu kuilinda kwa vizazi vijavyo.'",
+  "expected_output": "Msitu ni muhimu na unapaswa kulindwa kwa faida ya vizazi vijavyo."
+}

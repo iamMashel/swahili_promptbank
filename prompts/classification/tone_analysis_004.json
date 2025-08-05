@@ -1,0 +1,6 @@
+{
+  "task": "classification",
+  "language": "Swahili",
+  "prompt": "Chambua mtazamo wa mzungumzaji: 'Najuta sana kujiunga na kampuni hii.'",
+  "expected_output": "Hasira/Negative"
+}

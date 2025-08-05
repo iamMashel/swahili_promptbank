@@ -1,0 +1,6 @@
+{
+  "task": "instruction-following",
+  "language": "Swahili",
+  "prompt": "Andika vidokezo vitano muhimu vya kuandika CV bora kwa wanafunzi wa chuo.",
+  "expected_output": "Vidokezo vya wazi kuhusu muundo, lugha, na maudhui ya CV."
+}

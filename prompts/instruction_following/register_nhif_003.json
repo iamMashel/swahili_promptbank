@@ -1,0 +1,6 @@
+{
+  "task": "instruction-following",
+  "language": "Swahili",
+  "prompt": "Eleza mchakato wa kujisajili kwa huduma ya NHIF nchini Kenya.",
+  "expected_output": "Maelezo ya hatua kwa hatua ya jinsi ya kujisajili kupitia ofisi au mtandaoni."
+}

@@ -1,0 +1,6 @@
+{
+  "task": "instruction-following",
+  "language": "Swahili",
+  "prompt": "Toa mwongozo wa kupanda mahindi kwa mkulima anayeanza.",
+  "expected_output": "Maelezo ya kuandaa shamba, kuchagua mbegu, na ratiba ya kupanda hadi kuvuna."
+}
